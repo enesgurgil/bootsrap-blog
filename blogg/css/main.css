@@ -1,0 +1,190 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+h1,
+h2,
+h3,
+h4,
+h5{
+    font-weight:700 
+    
+    
+   
+}
+h1,
+h2,
+h3,
+h4,
+h5{
+    color: #66FCF1;
+}
+
+
+
+.navbar{
+    background-color: #0B0C10;
+    color:#66FCF1  !important;
+}
+.navbar-brand,
+.footer-logo{
+    font-weight: 700;
+    font-size: 1.5rem;
+
+}
+
+.btn-main {
+    background-color:#66FCF1 !important;
+    color: #0B0C10 !important;
+}
+input{
+    background-color: #1F2833 !important;
+    color: #66FCF1 !important;
+}
+
+.hero{
+    background-color: #1F2833;
+}
+
+.hero-post-badges{
+     position: absolute;
+     top: 10px;
+     right: 20px;
+     
+
+}
+.hero-post-badges>a{
+    background-color: #0B0C10;
+    color: #66FCF1;
+    display: block;
+    font-size: 0.8rem;
+}
+.hero-post-content{
+    position: absolute;
+    bottom: 10;
+    color: #66FCF1;
+
+
+}
+
+.hero-post{
+    position: relative;
+}
+h3{
+    font-size: 1.5rem;
+}
+
+img{
+    filter: grayscale(50%) brightness(0.8);
+}
+
+img.rounded-circle{
+    filter: none;
+    border: 2px solid #66FCF1;
+}
+
+.blog-posts{
+    background-color: #0B0C10;
+    color: #C5C6C7;
+}
+
+.blog-post{
+    background-color: #1F2833;
+    color: #C5C6C7;
+}
+.blog-post p{
+    font-size: 0.9rem;
+}
+
+.blog-post  .col-sm-8{
+    border-left:  3px solid #66FCF1;
+}
+.badge{
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.badge>a {
+    margin-left: 0.5rem;
+    padding: 0.5rem;
+    background-color: #66FCF1;
+    color: #0B0C10;
+
+}
+.blog-posts img{
+    width: 100% ;
+    height: 100%;
+    object-fit: cover;
+}
+
+.social-links{
+    background-color: #66FCF1;
+    color: #0B0C10;
+    font-size: 1.5rem;
+
+}
+.social-links>a{
+    padding-top: 2rem;
+}
+
+.secondary-color{
+    background-color: #1F2833;
+    color: #66FCF1;
+}
+.aside-heading{
+    border-left: 3px solid #66FCF1;
+
+}
+
+.lisence a{
+    color: black;
+}
+
+.author p{
+    font-size: 0.8rem;
+}
+
+.author-social-links a{
+    margin-left: 0.8rem;
+}
+
+.badges{
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.badges>a {
+    margin-left: 0.5rem;
+    display: inline-block;
+    padding: 0.5rem;
+    margin: 0.2rem;
+    background-color: #66FCF1;
+    color: #0B0C10;
+
+}
+
+
+.footer{
+    background-color: #1F2833;
+    color:#C5C6C7
+
+}
+
+.footer input{
+    background-color: #0B0C10 !important;
+}
+
+.footer a{
+    color: #66FCF1;
+}
+
+.footer p{
+    font-size: 0.9rem;
+}
+
+.blog-post h3{
+    font-size: 1.4rem;
+}
+
+a {
+    color: #66FCF1;
+}
